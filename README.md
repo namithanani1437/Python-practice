@@ -10,6 +10,22 @@ This repository contains my daily Python practice solutions — covering loops, 
 - Product of N Numbers After X
 - Sum of N Squares
 - Print Integers - 3
+- ## 21-11-2025 (Loop Practice)
+
+• print_length.py  
+• print_characters.py  
+• print_n_integers.py  
+• first_n_natural_numbers.py  
+• sum_of_n_naturals.py  
+• average_of_n_numbers.py  
+• cubes_of_n_numbers.py  
+• read_n_inputs.py  
+• product_of_n_inputs.py  
+• solid_rectangle.py  
+• right_angled_triangle.py  
+• sum_of_given_numbers.py  
+• identify_mistake_styled_word.py
+
 
 ## Why I'm Doing This
 I'm learning Python consistently and uploading my solutions to track my growth and build a strong foundation in programming.
