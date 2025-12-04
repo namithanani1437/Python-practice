@@ -2,6 +2,21 @@
 
 This repository contains my daily Python practice solutions — covering loops, patterns, maths problems, and basic logic building.
 
+# Python Practice Programs
+
+📅 Date: 04 December 2025
+
+### Topics Covered:
+- Input / Output
+- Variables & Data Types
+- For Loops
+- If Conditions
+- Range()
+- Arithmetic Operations
+- Sum & Product Calculations
+- Even & Odd Logic
+
+
 ##  Problems Solved Today
 - Rectangle - 3
 - Print N Numbers from 0
