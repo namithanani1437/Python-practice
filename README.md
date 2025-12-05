@@ -2,9 +2,14 @@
 
 This repository contains my daily Python practice solutions — covering loops, patterns, maths problems, and basic logic building.
 
+
+
 # Python Practice Programs
 
-📅 Date: 04 December 2025
+05 Dec 2025:
+Solved problems related to: numbers divisible logic, loops, conditions, vowels, and character printing.
+
+Date: 04 December 2025
 
 ### Topics Covered:
 - Input / Output
