@@ -6,6 +6,21 @@ This repository contains my daily Python practice solutions — covering loops, 
 
 # Python Practice Programs
 
+# Python Practice Programs
+
+**Date:** 07 December 2025
+
+## Topics Covered Today
+
+- Print N Numbers in Reverse
+- Print from M to N in Reverse
+- Print Characters in Reverse
+- Print Odd Numbers from N to M
+- Inverted Right Angled Triangle
+- Inverted Right Angled Triangle - Version 2
+
+
+
 05 Dec 2025:
 Solved problems related to: numbers divisible logic, loops, conditions, vowels, and character printing.
 
